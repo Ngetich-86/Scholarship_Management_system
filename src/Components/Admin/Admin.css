@@ -1,0 +1,15 @@
+.ad-container{
+    width:100%;
+    height: 100vh;
+    background-image: url(../../assets/images/girl.jpg);
+    margin: 0px;
+}
+.ad-form{
+    width: 30%;
+    height: 50%;
+    margin: 0 auto;
+    background-color: rgba(0,0,0,0.5);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 0%;
+}

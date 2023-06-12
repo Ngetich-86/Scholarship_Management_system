@@ -1,0 +1,43 @@
+.log-container{
+    width:100%;
+    height:90vh;
+    border: 1px solid black;
+    background-color: rgb(6, 15, 34);
+    display: flex;
+    gap: 45px;
+    
+}
+.log-img{
+    /* width:40%; */
+    /* height:40%; */
+    margin-top: 40px;
+    /* border: 1px solid rgb(230, 10, 10); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+.log-form{
+    width:30%;
+    height:80%;
+    border: 1px solid rgb(10, 230, 175);
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+

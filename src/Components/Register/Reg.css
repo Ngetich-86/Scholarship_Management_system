@@ -1,0 +1,48 @@
+
+.reg-container{
+    width:100%;
+    height: auto;
+    border: 1px solid black;
+    display: flex;
+    background-image: url(../../assets/images/home.jpg)
+}
+.reg-form{
+    width: 450px;
+    height: 80vh;
+    /* border:2px solid greenyellow; */
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    background-color:rgb(6, 15, 34);
+    border-radius: 10px;
+}
+form h2{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    margin-top: 20px;
+}
+form p{
+    text-align: center;
+    color: white;
+   
+}
+input,
+  textarea {
+    width: 93%;
+    padding: 0.8rem;
+    border-radius: 0.5rem;
+    background:rgb(5, 9, 19);
+    /* border: 2px solid greenyellow; */
+    resize: none;
+    /* color:red; */
+  }
+
+
+
+
+
+
+
+
+

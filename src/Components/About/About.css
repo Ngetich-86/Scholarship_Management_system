@@ -1,0 +1,65 @@
+.container1{
+    width:100%;
+    height:auto;
+    border: 1px solid black;
+    background-color: rgb(6, 15, 34);
+}
+.about-us{
+    width:100%;
+    height:40%;
+    border: 1px solid rgb(10, 230, 175);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about-us h1{
+    font-size: 3rem;
+    font-weight: 600;
+    color: white;
+}
+.about-us p{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color:white;
+    text-align: center;
+}
+.img-container{
+    width:100%;
+    height:60%;
+    border: 1px solid rgb(10, 230, 175);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+#the-team{
+    width:100%;
+    height:auto;
+    border: 1px solid rgb(10, 230, 175);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.reachout{
+    width:100%;
+    height:auto;
+    border: 1px solid rgb(10, 230, 175);
+    /* display: flex; */
+    flex-direction: column;
+    justify-content:left;
+    align-items: center;
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+
