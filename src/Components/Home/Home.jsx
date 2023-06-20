@@ -1,5 +1,6 @@
 import React from 'react'
 import './Home.css'
+import Reg from '../Register/Reg'
 import Image1 from '../../assets/images/Diverse-young-students.jpg'
 
 const Home = () => {
@@ -17,7 +18,7 @@ const Home = () => {
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique, culpa nemo, fugiat officiis
             </p>
 
-              <button >Register Now</button>
+              <button Route path='/Reg' element= {<Reg/>} >Register Now</button>
 
 
         </div>

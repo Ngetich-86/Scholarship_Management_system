@@ -1,29 +1,41 @@
-import image4 from '../../assets/images/gidee.jpg'
+import image4 from '../../assets/images/girl.jpg'
 const data =[
     {
+        id: 1,
         image: image4,
-        name: "John Doe",
+        title: "Joyce Mumbi",
         rank: "CEO",
         linkedin: "https://www.linkedin.com/",
-    },
-    {
+       
+      },
+      {
+        id: 2,
         image: image4,
-        name: "John Doe",
+        title: "Sarah lewis",
         rank: "CEO",
         linkedin: "https://www.linkedin.com/",
-    },
-    {
+        github: "https://github.com/Ngetich-86/react-portfolio",
+        demo: "https://||||||",
+      },
+      {
+        id: 3,
         image: image4,
-        name: "John Doe",
+        title: "YYvone Yung",
         rank: "CEO",
         linkedin: "https://www.linkedin.com/",
-    },
-    {
+        
+      },
+      {
+        id: 4,
         image: image4,
-        name: "John Doe",
+        title: "Bruno Darwin",
         rank: "CEO",
         linkedin: "https://www.linkedin.com/",
-    }
+       
+      },
+      
+    
+    
 ]
 
 export default data
