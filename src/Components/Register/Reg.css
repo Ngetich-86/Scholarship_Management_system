@@ -1,4 +1,125 @@
+.registrationPage {
+    height: 100vh;
+    background-image: url(../../assets/images/cloud.jpg);
+  }
+  
+  .registrationTitle {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    color:white;
+    margin-bottom: 2rem;
+    margin-top: 0.1rem;
+  }
+  .myForm {
+    width: 74%;
+  }
+  
+  .myFormLogin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #e7ece7;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 55%;
+  }
+  
+  .inputFieldLogin {
+    width: 90%;
+    height: 50px;
+    margin: 10px 0;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  .submitbtn{
+    width: 90%;
+    height: 50px;
+    margin: 10px 0;
+    padding: 0 10px;
+    border: 1px solid #e40909;
+    border-radius: 5px;
+    outline: none;
+    background-color: rgb(21, 90, 240);
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  @media screen and (max-width: 1004px){
+    .registrationTitle {
+      font-size: 2rem;
+      font-weight: 500;
+    }
+    .myFormLogin {
+   
+      margin: 0 auto;
+      padding: 10px;
+      border-radius: 10px;
+      background-color: #e7ece7;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      width: 80%;
+    }
+    .inputFieldLogin {
+  
+      padding: 0 5px;
+  
+    }
+  }
+  
+  @media screen and (max-width: 1004px){
+    .myFormLogin {
+   
+      margin: 0 auto;
+      padding: 10px;
+      border-radius: 10px;
+      background-color: #e7ece7;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      width: 97%;
+    }
+    .inputFieldLogin {
+  
+      padding: 0 5px;
+      width: 98%;
+    height: 40px;
+  
+    }
+  }
+  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 .reg-container{
     width:100%;
     height: auto;
@@ -9,7 +130,6 @@
 .reg-form{
     width: 450px;
     height: 80vh;
-    /* border:2px solid greenyellow; */
     margin-top: 20px;
     margin-left: 10px;
     margin-bottom: 20px;
@@ -33,16 +153,8 @@ input,
     padding: 0.8rem;
     border-radius: 0.5rem;
     background:rgb(5, 9, 19);
-    /* border: 2px solid greenyellow; */
+    
     resize: none;
-    /* color:red; */
+   
   }
-
-
-
-
-
-
-
-
-
+ */

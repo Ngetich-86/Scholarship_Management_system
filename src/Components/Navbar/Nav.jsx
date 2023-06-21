@@ -10,7 +10,7 @@ function Nav() {
     <>
     <div className="nav-all">
     <div className="logo">
-        <h1>ustawi scholarship</h1>
+        <h1>Ustawi Foundation</h1>
       </div>
     <div className="navbar">
     
